@@ -1,8 +1,8 @@
 # Cursor landing page clone
 
-This project uses only semantic HTML and CSS and creates a desktop friendly landing page of Cursor IDE.
+This project uses only semantic HTML and CSS, creates a desktop friendly landing page of Cursor IDE.
 This is only made for desktop screens.
 
 ## Preview
 
-![Preview](https://github.com/user-attachments/assets/963a5ac3-a515-4b28-b848-807fb2342eeb)
+<img width="1366" height="685" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/0837ff91-36a2-47ce-beb9-0d81f511f52c" />
