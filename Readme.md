@@ -1,4 +1,4 @@
-# Cursor landing page clone
+# Cursor landing page 
 
 ## Project Overview
 
@@ -23,6 +23,6 @@
 - Footer with multi-column links
 
 ## Preview
-LINK: 
+LINK: https://sidratul02.github.io/Cursor_Landing_Page
 
 <img width="1366" height="685" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/0837ff91-36a2-47ce-beb9-0d81f511f52c" />
